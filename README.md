@@ -2,5 +2,6 @@
 <p align="center">Information Technology Student | Polytechnic University of the Philippines - Sto. Tomas Campus</p>
 
 <p align="center">
-Focus
+I am continously building my skills, including configuring and trouble shooting of network environments
 </p>
+
